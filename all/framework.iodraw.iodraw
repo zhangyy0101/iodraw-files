@@ -7,8 +7,8 @@
         <mxCell id="KjOg2UjYEUffA--JOoO1-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="40" width="640" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="KjOg2UjYEUffA--JOoO1-2" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="230" width="60" height="30" as="geometry" />
+        <mxCell id="KjOg2UjYEUffA--JOoO1-2" value="Rolling evidence" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="50" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
