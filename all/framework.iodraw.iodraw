@@ -116,7 +116,7 @@
           <mxGeometry x="940" y="302" width="58" height="58" as="geometry" />
         </mxCell>
         <mxCell id="KjOg2UjYEUffA--JOoO1-48" value="&lt;font face=&quot;Verdana&quot;&gt;Aggregate screen&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;certified projection&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="316" width="160" height="30" as="geometry" />
+          <mxGeometry x="998" y="320.69" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KjOg2UjYEUffA--JOoO1-49" value="&lt;font color=&quot;#006633&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;both pass&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="960" y="361" width="90" height="20" as="geometry" />
