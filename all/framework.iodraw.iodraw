@@ -83,10 +83,10 @@
           <mxGeometry x="520" y="362" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KjOg2UjYEUffA--JOoO1-35" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=60;" vertex="1" parent="1">
-          <mxGeometry x="607" y="279" width="220" height="110" as="geometry" />
+          <mxGeometry x="607" y="279" width="273" height="110" as="geometry" />
         </mxCell>
         <mxCell id="KjOg2UjYEUffA--JOoO1-36" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Adaptive expansion&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="617" y="279" width="200" height="30" as="geometry" />
+          <mxGeometry x="643.5" y="280" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KjOg2UjYEUffA--JOoO1-39" value="&lt;font color=&quot;#006633&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;pass&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="617" y="361" width="60" height="20" as="geometry" />
