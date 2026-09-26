@@ -13,10 +13,10 @@
         <mxCell id="KjOg2UjYEUffA--JOoO1-6" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;Yard state and demand&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="144" y="170" width="92" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KjOg2UjYEUffA--JOoO1-8" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Comic Sans MS&quot;&gt;Inherited reservation&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KjOg2UjYEUffA--JOoO1-8" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;Inherited reservation&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="288.46" y="170" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KjOg2UjYEUffA--JOoO1-10" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Comic Sans MS&quot;&gt;Forcast and vessel workload&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="KjOg2UjYEUffA--JOoO1-10" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;Forcast and vessel workload&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="435.71000000000004" y="170" width="122.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KjOg2UjYEUffA--JOoO1-11" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Updated snapshot&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
