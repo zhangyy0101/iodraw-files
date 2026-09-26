@@ -58,8 +58,8 @@
         <mxCell id="KjOg2UjYEUffA--JOoO1-23" value="&lt;font face=&quot;Verdana&quot;&gt;Inherited support + alternatives&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="330" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KjOg2UjYEUffA--JOoO1-24" value="Change-aware" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="288.46" y="420" width="211.54" height="30" as="geometry" />
+        <mxCell id="KjOg2UjYEUffA--JOoO1-24" value="Change-aware domain" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="143.99999999999997" y="410" width="211.54" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
