@@ -59,10 +59,7 @@
           <mxGeometry x="210" y="330" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KjOg2UjYEUffA--JOoO1-24" value="&lt;font color=&quot;#006633&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;Change-aware domain&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="140" y="370" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="KjOg2UjYEUffA--JOoO1-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.941;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KjOg2UjYEUffA--JOoO1-24" target="KjOg2UjYEUffA--JOoO1-24">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="150" y="370" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
