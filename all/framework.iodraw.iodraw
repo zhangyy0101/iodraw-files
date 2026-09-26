@@ -103,6 +103,9 @@
         <mxCell id="KjOg2UjYEUffA--JOoO1-43" value="&lt;font face=&quot;Verdana&quot;&gt;Deficit-guided growth&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;monotone &amp;amp; re-screened&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="687" y="310" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="KjOg2UjYEUffA--JOoO1-44" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="450" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
