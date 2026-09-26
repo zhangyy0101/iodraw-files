@@ -71,7 +71,7 @@
           <mxGeometry x="408.46" y="305.43" width="135.31" height="59.14" as="geometry" />
         </mxCell>
         <mxCell id="KjOg2UjYEUffA--JOoO1-29" value="$$\theta \Omega \ge 1+\varepsilon $$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="398.31" y="360" width="60" height="30" as="geometry" />
+          <mxGeometry x="446.12" y="360" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
