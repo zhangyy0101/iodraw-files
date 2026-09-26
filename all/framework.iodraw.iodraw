@@ -106,6 +106,12 @@
         <mxCell id="KjOg2UjYEUffA--JOoO1-44" value="$$\Omega ^{0}\subseteq \Omega ^{A}\subseteq \Omega ^{G}&amp;nbsp; &amp;nbsp;$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="334" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="KjOg2UjYEUffA--JOoO1-45" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=60;" vertex="1" parent="1">
+          <mxGeometry x="617" y="289" width="273" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="KjOg2UjYEUffA--JOoO1-46" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Adaptive expansion&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="653.5" y="290" width="200" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
