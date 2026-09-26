@@ -124,7 +124,7 @@
         <mxCell id="KjOg2UjYEUffA--JOoO1-50" value="&lt;font color=&quot;#cc0000&quot; face=&quot;Verdana&quot;&gt;&lt;b style=&quot;&quot;&gt;otherwise&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1165.21" y="361" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KjOg2UjYEUffA--JOoO1-51" value="&lt;font face=&quot;Verdana&quot; color=&quot;#006633&quot;&gt;&lt;b&gt;$$\Omega ^{0} $$&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="KjOg2UjYEUffA--JOoO1-51" value="&lt;font face=&quot;Verdana&quot; color=&quot;#006633&quot;&gt;&lt;b&gt;Initial$$\Omega ^{0} $$&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="415.21" y="420" width="364.79" height="70" as="geometry" />
         </mxCell>
       </root>
