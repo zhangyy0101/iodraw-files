@@ -47,7 +47,7 @@
           <mxGeometry x="100" y="230" width="640" height="280" as="geometry" />
         </mxCell>
         <mxCell id="KjOg2UjYEUffA--JOoO1-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="135" y="280" width="185" height="140" as="geometry" />
+          <mxGeometry x="135" y="280" width="225" height="140" as="geometry" />
         </mxCell>
         <mxCell id="KjOg2UjYEUffA--JOoO1-19" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Construct initial domain&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="290" width="170" height="30" as="geometry" />
@@ -60,6 +60,9 @@
         </mxCell>
         <mxCell id="KjOg2UjYEUffA--JOoO1-24" value="&lt;font color=&quot;#006633&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;Change-aware domain&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="140" y="370" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KjOg2UjYEUffA--JOoO1-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.941;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KjOg2UjYEUffA--JOoO1-24" target="KjOg2UjYEUffA--JOoO1-24">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
