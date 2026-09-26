@@ -137,7 +137,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KjOg2UjYEUffA--JOoO1-60" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Domain control and exact-domain selection&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="581.42" y="240" width="468.58" height="30" as="geometry" />
+          <mxGeometry x="585.7099999999999" y="240" width="468.58" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KjOg2UjYEUffA--JOoO1-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.845;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KjOg2UjYEUffA--JOoO1-53" target="KjOg2UjYEUffA--JOoO1-53">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
