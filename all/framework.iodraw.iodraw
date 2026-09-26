@@ -46,7 +46,7 @@
         <mxCell id="KjOg2UjYEUffA--JOoO1-17" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82b366;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="94" y="230" width="640" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="KjOg2UjYEUffA--JOoO1-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="KjOg2UjYEUffA--JOoO1-18" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=90;" vertex="1" parent="1">
           <mxGeometry x="135" y="280" width="215" height="110" as="geometry" />
         </mxCell>
         <mxCell id="KjOg2UjYEUffA--JOoO1-19" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Construct initial domain&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
