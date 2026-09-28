@@ -101,7 +101,7 @@
           <mxGeometry x="902.4200000000001" y="334" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KjOg2UjYEUffA--JOoO1-45" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=60;" parent="1" vertex="1">
-          <mxGeometry x="1017.0000000000001" y="286" width="273" height="110" as="geometry" />
+          <mxGeometry x="1063.42" y="279" width="273" height="110" as="geometry" />
         </mxCell>
         <mxCell id="KjOg2UjYEUffA--JOoO1-46" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Global aggregate assessment&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1083.17" y="280" width="236.83" height="30" as="geometry" />
@@ -111,6 +111,9 @@
         </mxCell>
         <mxCell id="KjOg2UjYEUffA--JOoO1-48" value="&lt;font face=&quot;Verdana&quot;&gt;Aggregate screen&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;certified projection&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1153.42" y="313.38" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VU1bllFb4E4okZsUbPNh-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KjOg2UjYEUffA--JOoO1-49" target="KjOg2UjYEUffA--JOoO1-53">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KjOg2UjYEUffA--JOoO1-49" value="&lt;font color=&quot;#006633&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;both pass&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1103.42" y="362" width="90" height="20" as="geometry" />
