@@ -185,10 +185,10 @@
           <mxGeometry x="651.51" y="570" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VU1bllFb4E4okZsUbPNh-21" value="&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;shortage&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="873.5" y="650" width="120" height="32.5" as="geometry" />
+          <mxGeometry x="659.42" y="600" width="120" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="VU1bllFb4E4okZsUbPNh-22" value="&lt;b&gt;$$Z_{1}&amp;nbsp; $$&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="870" y="651.25" width="60" height="30" as="geometry" />
+        <mxCell id="VU1bllFb4E4okZsUbPNh-22" value="&lt;b&gt;&lt;font color=&quot;#cc0000&quot;&gt;$$Z_{1}&amp;nbsp; $$&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="655.92" y="601.25" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
