@@ -130,7 +130,7 @@
         <mxCell id="dWaB-5w-eUo0vtWdUrFm-55" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="960" y="40" width="370" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="dWaB-5w-eUo0vtWdUrFm-56" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 18px;&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;Reconstruct the rolling state&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dWaB-5w-eUo0vtWdUrFm-56" value="&lt;font face=&quot;Verdana&quot; color=&quot;#cc0000&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Expand where support is missing&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="980" y="50" width="330" height="30" as="geometry" />
         </mxCell>
       </root>
