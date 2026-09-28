@@ -232,7 +232,7 @@
         <mxCell id="VU1bllFb4E4okZsUbPNh-39" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Common exact planning and rolling release&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="585.7099999999999" y="455" width="468.58" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VU1bllFb4E4okZsUbPNh-41" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#647687;strokeColor=#314354;endWidth=42.5;endSize=7.3999999999999995;" edge="1" parent="1">
+        <mxCell id="VU1bllFb4E4okZsUbPNh-41" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#647687;strokeColor=#314354;endWidth=21.875;endSize=6.975;width=22.5;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="806" y="420" as="sourcePoint" />
             <mxPoint x="805.92" y="455" as="targetPoint" />
