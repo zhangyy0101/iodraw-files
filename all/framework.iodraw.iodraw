@@ -151,7 +151,7 @@
         <mxCell id="dWaB-5w-eUo0vtWdUrFm-62" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;vs. 1/&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1193" y="102" width="95" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dWaB-5w-eUo0vtWdUrFm-63" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;$$1+\varepsilon $$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dWaB-5w-eUo0vtWdUrFm-63" value="&lt;font style=&quot;font-size: 13px;&quot; face=&quot;Verdana&quot;&gt;$$1+\varepsilon $$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1251" y="102" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
