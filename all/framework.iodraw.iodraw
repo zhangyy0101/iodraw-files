@@ -157,6 +157,9 @@
         <mxCell id="dWaB-5w-eUo0vtWdUrFm-64" value="&lt;font color=&quot;#994c00&quot; face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;conclusive deficit&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#FFE599;" vertex="1" parent="1">
           <mxGeometry x="975" y="176" width="155" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="dWaB-5w-eUo0vtWdUrFm-65" value="&lt;font color=&quot;#006633&quot; face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;inherited&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="612" y="292" width="116" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
