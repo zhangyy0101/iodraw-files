@@ -229,10 +229,13 @@
         <mxCell id="VU1bllFb4E4okZsUbPNh-36" value="&lt;font color=&quot;#cc0000&quot; face=&quot;Verdana&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;$$\Omega ^{G} $$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#994C00;" vertex="1" parent="1">
           <mxGeometry x="1081.17" y="394" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="VU1bllFb4E4okZsUbPNh-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VU1bllFb4E4okZsUbPNh-39" target="VU1bllFb4E4okZsUbPNh-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VU1bllFb4E4okZsUbPNh-39" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;b&gt;Common exact planning and rolling release&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="585.7099999999999" y="489" width="468.58" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VU1bllFb4E4okZsUbPNh-41" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#a0522d;strokeColor=#6D1F00;" edge="1" parent="1">
+        <mxCell id="VU1bllFb4E4okZsUbPNh-41" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#647687;strokeColor=#314354;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="805.92" y="439" as="sourcePoint" />
             <mxPoint x="805.92" y="489" as="targetPoint" />
