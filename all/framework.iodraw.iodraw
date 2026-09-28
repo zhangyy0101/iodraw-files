@@ -53,7 +53,7 @@
           <mxGeometry x="148" y="300" width="55" height="25" as="geometry" />
         </mxCell>
         <mxCell id="dWaB-5w-eUo0vtWdUrFm-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=70;" vertex="1" parent="1">
-          <mxGeometry x="470" y="40" width="370" height="380" as="geometry" />
+          <mxGeometry x="470" y="40" width="420" height="380" as="geometry" />
         </mxCell>
         <mxCell id="dWaB-5w-eUo0vtWdUrFm-21" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 18px;&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;Construct the initial domain&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="490" y="50" width="330" height="30" as="geometry" />
