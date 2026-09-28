@@ -164,7 +164,7 @@
           <mxGeometry x="1212" y="190" width="25" height="12" as="geometry" />
         </mxCell>
         <mxCell id="dWaB-5w-eUo0vtWdUrFm-68" value="&lt;font color=&quot;#006633&quot; style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;$$\Omega ^{A} $$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="250" width="60" height="30" as="geometry" />
+          <mxGeometry x="1228" y="180" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
