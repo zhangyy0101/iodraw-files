@@ -184,7 +184,7 @@
         <mxCell id="dWaB-5w-eUo0vtWdUrFm-75" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;$$K_{igk} $$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1263" y="250" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dWaB-5w-eUo0vtWdUrFm-76" value="add support and update shared capacity" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dWaB-5w-eUo0vtWdUrFm-76" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;add support and update shared capacity&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1090" y="302" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
