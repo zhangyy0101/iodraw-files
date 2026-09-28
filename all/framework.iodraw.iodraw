@@ -186,8 +186,8 @@
         <mxCell id="dWaB-5w-eUo0vtWdUrFm-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dWaB-5w-eUo0vtWdUrFm-69" target="dWaB-5w-eUo0vtWdUrFm-74">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dWaB-5w-eUo0vtWdUrFm-69" value="&lt;span style=&quot;font-family: Verdana; font-size: 14px;&quot;&gt;&amp;nbsp;Temporal deficit&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="980" y="240" width="162.5" height="50" as="geometry" />
+        <mxCell id="dWaB-5w-eUo0vtWdUrFm-69" value="&lt;span style=&quot;font-family: Verdana; font-size: 14px;&quot;&gt;&amp;nbsp;Temporal deficit&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="245" width="240" height="50" as="geometry" />
         </mxCell>
         <mxCell id="dWaB-5w-eUo0vtWdUrFm-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
