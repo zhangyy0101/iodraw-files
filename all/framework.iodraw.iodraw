@@ -142,7 +142,7 @@
         <mxCell id="KjOg2UjYEUffA--JOoO1-50" value="&lt;font color=&quot;#cc0000&quot; face=&quot;Verdana&quot;&gt;&lt;b style=&quot;&quot;&gt;otherwise&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1213.42" y="361" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KjOg2UjYEUffA--JOoO1-51" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px; color: rgb(0, 102, 51); font-family: Verdana; background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;Initial&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" parent="1" vertex="1">
+        <mxCell id="KjOg2UjYEUffA--JOoO1-51" value="&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 18px; color: rgb(0, 102, 51); font-family: Verdana; background-color: initial;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; Initial&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;align=left;" parent="1" vertex="1">
           <mxGeometry x="470" y="420" width="167.21" height="40" as="geometry" />
         </mxCell>
         <mxCell id="KjOg2UjYEUffA--JOoO1-53" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 18px;&quot; color=&quot;#994c00&quot;&gt;&lt;b style=&quot;&quot;&gt;&amp;nbsp; &amp;nbsp;Adaptive&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=left;" parent="1" vertex="1">
@@ -218,7 +218,7 @@
           <mxGeometry x="1150" y="622.5" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VU1bllFb4E4okZsUbPNh-35" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;$$\Omega ^{A} $$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#994C00;" vertex="1" parent="1">
-          <mxGeometry x="830" y="425" width="60" height="30" as="geometry" />
+          <mxGeometry x="835" y="425" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VU1bllFb4E4okZsUbPNh-36" value="&lt;font color=&quot;#cc0000&quot; face=&quot;Verdana&quot; style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;$$\Omega ^{G} $$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#994C00;" vertex="1" parent="1">
           <mxGeometry x="1081.17" y="425" width="60" height="30" as="geometry" />
