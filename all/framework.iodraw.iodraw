@@ -25,6 +25,9 @@
         <mxCell id="dWaB-5w-eUo0vtWdUrFm-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="220" width="310" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="dWaB-5w-eUo0vtWdUrFm-9" value="Time-dependent residual state" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="260" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
