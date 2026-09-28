@@ -26,7 +26,7 @@
           <mxGeometry x="60" y="220" width="310" height="110" as="geometry" />
         </mxCell>
         <mxCell id="dWaB-5w-eUo0vtWdUrFm-9" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;Time-dependent residual state&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="230" width="225" height="30" as="geometry" />
+          <mxGeometry x="102.5" y="228" width="225" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
