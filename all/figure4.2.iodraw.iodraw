@@ -31,7 +31,7 @@
         <mxCell id="aeO6GnjBiTogC3N6Vblg-13" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="400" y="30" width="340" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="aeO6GnjBiTogC3N6Vblg-14" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 18px;&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;(a) Local boundary&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="aeO6GnjBiTogC3N6Vblg-14" value="&lt;font color=&quot;#cc0000&quot; style=&quot;font-size: 18px;&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;(b) Global witness&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="458.5" y="37" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
