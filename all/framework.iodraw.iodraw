@@ -97,8 +97,11 @@
         <mxCell id="dWaB-5w-eUo0vtWdUrFm-36" value="&lt;font color=&quot;#006633&quot; face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;inherited&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#d5e8d4;" vertex="1" parent="1">
           <mxGeometry x="602" y="320" width="98" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="dWaB-5w-eUo0vtWdUrFm-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=39.6;exitDy=26.4;exitPerimeter=0;" edge="1" parent="1" source="dWaB-5w-eUo0vtWdUrFm-38" target="dWaB-5w-eUo0vtWdUrFm-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dWaB-5w-eUo0vtWdUrFm-38" value="" style="shape=cross;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="750" y="459" width="20" height="20" as="geometry" />
+          <mxGeometry x="750" y="444" width="66" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
