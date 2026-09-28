@@ -28,8 +28,8 @@
         <mxCell id="dWaB-5w-eUo0vtWdUrFm-9" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;Time-dependent residual state&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="102.5" y="228" width="225" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dWaB-5w-eUo0vtWdUrFm-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="340" width="120" height="60" as="geometry" />
+        <mxCell id="dWaB-5w-eUo0vtWdUrFm-10" value="credible residual capacity" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="130" y="340" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
