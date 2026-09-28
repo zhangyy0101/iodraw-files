@@ -209,7 +209,10 @@
           <mxGeometry x="943.42" y="577" width="66" height="66" as="geometry" />
         </mxCell>
         <mxCell id="VU1bllFb4E4okZsUbPNh-30" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 18px;&quot;&gt;Independent&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;validation&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1054.29" y="750" width="60" height="30" as="geometry" />
+          <mxGeometry x="1042.42" y="596.25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VU1bllFb4E4okZsUbPNh-32" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="560" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
