@@ -284,7 +284,7 @@
           <mxGeometry x="560" y="560.62" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VU1bllFb4E4okZsUbPNh-86" value="refine/&lt;div&gt;Global fallback&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="620" width="88.99" height="30" as="geometry" />
+          <mxGeometry x="597.92" y="570" width="88.99" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
