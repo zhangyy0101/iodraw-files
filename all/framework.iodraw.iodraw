@@ -76,13 +76,11 @@
         <mxCell id="KjOg2UjYEUffA--JOoO1-29" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;$$\theta _{G} \ge 1+\varepsilon $$&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="560" y="306" width="71.79" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VU1bllFb4E4okZsUbPNh-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="VU1bllFb4E4okZsUbPNh-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="KjOg2UjYEUffA--JOoO1-30" target="KjOg2UjYEUffA--JOoO1-17">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="766.1300000000001" y="269.8500000000001" as="sourcePoint" />
             <mxPoint x="658.71" y="378.16" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="658.71" y="270.16" />
-            </Array>
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KjOg2UjYEUffA--JOoO1-30" value="&lt;font color=&quot;#006633&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;pass&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
