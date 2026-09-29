@@ -118,13 +118,13 @@
         <mxCell id="KjOg2UjYEUffA--JOoO1-48" value="&lt;font face=&quot;Verdana&quot;&gt;Aggregate screen &amp;amp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;certified projection&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1153.42" y="269.38" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VU1bllFb4E4okZsUbPNh-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="VU1bllFb4E4okZsUbPNh-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1148.42" y="331" as="sourcePoint" />
             <mxPoint x="805.0050000000001" y="369" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1148" y="347" />
-              <mxPoint x="805" y="347" />
+              <mxPoint x="1148" y="350" />
+              <mxPoint x="805" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
