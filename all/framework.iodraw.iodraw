@@ -101,7 +101,7 @@
           <mxGeometry x="1010.96" y="45.28" width="62" height="62" as="geometry" />
         </mxCell>
         <mxCell id="KjOg2UjYEUffA--JOoO1-43" value="&lt;font face=&quot;Verdana&quot;&gt;Deficit-guided growth&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;monotone &amp;amp; re-screened&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="742.4200000000001" y="269.38" width="160" height="30" as="geometry" />
+          <mxGeometry x="785.0000000000001" y="302" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KjOg2UjYEUffA--JOoO1-44" value="$$\Omega ^{0}\subseteq \Omega ^{A}\subseteq \Omega ^{G}&amp;nbsp; &amp;nbsp;$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1380" y="308" width="60" height="30" as="geometry" />
@@ -120,9 +120,6 @@
         </mxCell>
         <mxCell id="KjOg2UjYEUffA--JOoO1-49" value="&lt;font color=&quot;#006633&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;both pass&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1103.42" y="314" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="VU1bllFb4E4okZsUbPNh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="KjOg2UjYEUffA--JOoO1-50" target="KjOg2UjYEUffA--JOoO1-55">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KjOg2UjYEUffA--JOoO1-50" value="&lt;font color=&quot;#cc0000&quot; face=&quot;Verdana&quot;&gt;&lt;b style=&quot;&quot;&gt;otherwise&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1213.42" y="313" width="90" height="20" as="geometry" />
