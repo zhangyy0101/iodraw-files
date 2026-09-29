@@ -91,8 +91,8 @@
         <mxCell id="KjOg2UjYEUffA--JOoO1-40" value="&lt;font color=&quot;#8e6e9e&quot; face=&quot;Verdana&quot;&gt;&lt;b style=&quot;&quot;&gt;structural fail&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="839.84" y="314" width="113" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KjOg2UjYEUffA--JOoO1-43" value="&lt;font face=&quot;Verdana&quot;&gt;Deficit-guided growth&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;monotone &amp;amp; re-screened&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="760" y="262" width="223.71" height="30.62" as="geometry" />
+        <mxCell id="KjOg2UjYEUffA--JOoO1-43" value="&lt;font face=&quot;Verdana&quot;&gt;Deficit-guided growth&amp;nbsp;&lt;/font&gt;&lt;span style=&quot;font-family: Verdana; background-color: initial;&quot;&gt;monotone &amp;amp; re-screened&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="760" y="262" width="290" height="30.62" as="geometry" />
         </mxCell>
         <mxCell id="KjOg2UjYEUffA--JOoO1-44" value="$$\Omega ^{0}\subseteq \Omega ^{A}\subseteq \Omega ^{G}&amp;nbsp; &amp;nbsp;$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="875.9200000000001" y="286.69" width="60" height="30" as="geometry" />
