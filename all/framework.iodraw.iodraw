@@ -121,7 +121,7 @@
         <mxCell id="KjOg2UjYEUffA--JOoO1-48" value="&lt;font face=&quot;Verdana&quot;&gt;Aggregate screen &amp;amp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;certified projection&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1153.42" y="269.38" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VU1bllFb4E4okZsUbPNh-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;shape=link;" edge="1" parent="1" source="KjOg2UjYEUffA--JOoO1-49" target="KjOg2UjYEUffA--JOoO1-53">
+        <mxCell id="VU1bllFb4E4okZsUbPNh-62" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;" edge="1" parent="1" source="KjOg2UjYEUffA--JOoO1-49" target="KjOg2UjYEUffA--JOoO1-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KjOg2UjYEUffA--JOoO1-49" value="&lt;font color=&quot;#006633&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;both pass&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
