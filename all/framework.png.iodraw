@@ -280,8 +280,8 @@
         <mxCell id="VU1bllFb4E4okZsUbPNh-82" value="&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Verdana&quot;&gt;&amp;nbsp;If&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; : bounded refinement&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="568.54" y="601" width="241" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VU1bllFb4E4okZsUbPNh-83" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="715" y="700" width="60" height="30" as="geometry" />
+        <mxCell id="VU1bllFb4E4okZsUbPNh-83" value="$$Z_{1}&amp;gt; 0 $$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="585.71" y="598" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
