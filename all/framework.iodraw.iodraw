@@ -104,7 +104,7 @@
           <mxGeometry x="1010.96" y="45.28" width="62" height="62" as="geometry" />
         </mxCell>
         <mxCell id="KjOg2UjYEUffA--JOoO1-43" value="&lt;font face=&quot;Verdana&quot;&gt;Deficit-guided growth&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Verdana&quot;&gt;monotone &amp;amp; re-screened&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="769.4200000000001" y="302" width="160" height="30" as="geometry" />
+          <mxGeometry x="1035.42" y="182" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KjOg2UjYEUffA--JOoO1-44" value="$$\Omega ^{0}\subseteq \Omega ^{A}\subseteq \Omega ^{G}&amp;nbsp; &amp;nbsp;$$" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1390" y="360" width="60" height="30" as="geometry" />
