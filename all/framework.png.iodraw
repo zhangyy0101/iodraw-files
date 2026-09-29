@@ -50,10 +50,10 @@
           <mxGeometry x="306.41999999999996" y="232" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KjOg2UjYEUffA--JOoO1-23" value="&lt;font face=&quot;Verdana&quot;&gt;Inherited support +&amp;nbsp;&lt;/font&gt;&lt;font face=&quot;Verdana&quot;&gt;ranked &lt;/font&gt;&lt;font face=&quot;Verdana&quot;&gt;alternatives&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="340" y="262" width="159.08" height="30" as="geometry" />
+          <mxGeometry x="340" y="271" width="159.08" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KjOg2UjYEUffA--JOoO1-24" value="&lt;font color=&quot;#006633&quot; face=&quot;Verdana&quot;&gt;&lt;b&gt;Change-aware domain&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="312.42" y="310" width="180" height="22" as="geometry" />
+          <mxGeometry x="312.42" y="313" width="180" height="22" as="geometry" />
         </mxCell>
         <mxCell id="KjOg2UjYEUffA--JOoO1-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=60;" parent="1" vertex="1">
           <mxGeometry x="532.42" y="232" width="220" height="110" as="geometry" />
