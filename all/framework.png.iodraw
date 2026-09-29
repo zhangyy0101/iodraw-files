@@ -284,7 +284,7 @@
           <mxGeometry x="560" y="560.62" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VU1bllFb4E4okZsUbPNh-86" value="&lt;font face=&quot;Verdana&quot;&gt;refine/&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;MXeJuSKsFCM6MtBtxEFS&quot;&gt;Global fallback&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="597.92" y="570" width="88.99" height="30" as="geometry" />
+          <mxGeometry x="589.4599999999999" y="564.37" width="88.99" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
