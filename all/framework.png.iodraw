@@ -293,7 +293,7 @@
         <mxCell id="VU1bllFb4E4okZsUbPNh-83" value="&lt;font style=&quot;font-size: 9px;&quot; face=&quot;Verdana&quot;&gt;$$Z_{1}&amp;gt; 0 $$&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="578.21" y="563.87" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VU1bllFb4E4okZsUbPNh-90" value="&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;deficit&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E6E6E6;opacity=60;" vertex="1" parent="1">
+        <mxCell id="VU1bllFb4E4okZsUbPNh-90" value="&lt;font color=&quot;#994c00&quot; face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;deficit&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E6E6E6;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="730" y="250" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
