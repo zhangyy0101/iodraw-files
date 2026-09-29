@@ -115,7 +115,7 @@
         <mxCell id="dWaB-5w-eUo0vtWdUrFm-45" value="&lt;font color=&quot;#994c00&quot; face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b style=&quot;&quot;&gt;top-ranked 2&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#fff2cc;" vertex="1" parent="1">
           <mxGeometry x="900" y="332" width="116" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dWaB-5w-eUo0vtWdUrFm-49" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9AC7BF;strokeColor=none;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="dWaB-5w-eUo0vtWdUrFm-49" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CADBC9;strokeColor=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="630" y="388" width="390" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dWaB-5w-eUo0vtWdUrFm-51" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Verdana&quot;&gt;&lt;b style=&quot;&quot;&gt;Compact&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -124,7 +124,7 @@
         <mxCell id="dWaB-5w-eUo0vtWdUrFm-52" value="&lt;font style=&quot;font-size: 18px;&quot; face=&quot;Verdana&quot;&gt;&lt;b style=&quot;&quot;&gt;$$\Omega ^{0} $$&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="725" y="408" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dWaB-5w-eUo0vtWdUrFm-53" value="&lt;p style=&quot;line-height: 180%;&quot;&gt;&lt;font color=&quot;#006633&quot; face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;inherited support +&lt;br&gt;limited credible alternatives&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dWaB-5w-eUo0vtWdUrFm-53" value="&lt;p style=&quot;line-height: 180%;&quot;&gt;&lt;font color=&quot;#006633&quot; face=&quot;Verdana&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;inherited support +&lt;br&gt;limited credible alternatives&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="787" y="408" width="229" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dWaB-5w-eUo0vtWdUrFm-55" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=70;" vertex="1" parent="1">
