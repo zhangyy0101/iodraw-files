@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="vjRLGo3dMApxYgRLRisY">
-    <mxGraphModel dx="1080" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="684" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -119,7 +119,14 @@
           <mxGeometry x="1153.42" y="269.38" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VU1bllFb4E4okZsUbPNh-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KjOg2UjYEUffA--JOoO1-49" target="KjOg2UjYEUffA--JOoO1-53">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1148" y="354" />
+              <mxPoint x="996" y="354" />
+              <mxPoint x="996" y="352" />
+              <mxPoint x="805" y="352" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="KjOg2UjYEUffA--JOoO1-49" value="&lt;font face=&quot;Verdana&quot;&gt;&lt;b&gt;both pass&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#006633;" parent="1" vertex="1">
           <mxGeometry x="1103.42" y="314" width="90" height="20" as="geometry" />
