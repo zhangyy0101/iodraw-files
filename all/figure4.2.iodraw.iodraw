@@ -130,7 +130,7 @@
         <mxCell id="dWaB-5w-eUo0vtWdUrFm-55" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="1056" y="41" width="370" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="dWaB-5w-eUo0vtWdUrFm-56" value="&lt;font face=&quot;Verdana&quot; color=&quot;#cc0000&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Expand where support is missing&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="dWaB-5w-eUo0vtWdUrFm-56" value="Deficit-guided adaptive expansion" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1071" y="51" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dWaB-5w-eUo0vtWdUrFm-57" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=default;strokeColor=#9673a6;strokeWidth=2;" vertex="1" parent="1">
