@@ -277,8 +277,8 @@
         <mxCell id="VU1bllFb4E4okZsUbPNh-81" value="&lt;font color=&quot;#cc0000&quot; face=&quot;Verdana&quot;&gt;&lt;b style=&quot;&quot;&gt;otherwise&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="668.4599999999998" y="314" width="77.58" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VU1bllFb4E4okZsUbPNh-82" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="569" y="610" width="241" height="60" as="geometry" />
+        <mxCell id="VU1bllFb4E4okZsUbPNh-82" value="&amp;nbsp; If&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;: bounded refinement" style="rounded=1;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="568.54" y="601" width="241" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
